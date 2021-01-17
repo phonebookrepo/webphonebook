@@ -3,5 +3,6 @@ class
 public static void main(String[]args)
 {
 Sopln("Ayusmati");
+Sopln("Kajal);
 }
 }
